@@ -2,3 +2,9 @@ h1 {
   text-align: center;
   color: burlywood;
 }
+
+img {
+  width: 90%;
+  margin: 0 auto;
+  display: block;
+}
